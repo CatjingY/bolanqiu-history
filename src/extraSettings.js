@@ -38,7 +38,7 @@ let clickChangeFruit = true;
 let adLink = 'CatjingY.github.io';
 
 // 修改网页标题：将 "合成大西瓜" 进行替换
-document.getElementsByTagName("title")[0].innerText = '合成宇宙国';
+document.getElementsByTagName("title")[0].innerText = '合成大苏苏';
 
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;
